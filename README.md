@@ -115,12 +115,6 @@ This project includes a Streamlit app (`app.py`) for interactive exploration of 
 
 ---
 
-## 🧾 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🙌 Acknowledgements
 
 - Scikit-learn
@@ -129,7 +123,3 @@ This project is licensed under the MIT License.
 - 20 Newsgroups Dataset (from sklearn.datasets)
 
 ---
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
